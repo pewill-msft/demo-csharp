@@ -11,6 +11,7 @@ using Mono.Data.Sqlite;
 
 namespace OWASP.WebGoat.NET
 {
+// Demo change
 	public class DatabaseUtilities
 	{
 		private SqliteConnection conn = null;
